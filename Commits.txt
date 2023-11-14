@@ -1,0 +1,400 @@
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01
+$ git init
+Initialized empty Git repository in C:/Users/FISEI-LB1-PC18/AndroidStudioProjects/Examen01/.git/
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/build.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/proguard-rules.pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/androidTest/java/com/example/examen01/ExampleInstrumentedTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/MainActivity.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/Sumar.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/resta.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/drawable/ic_launcher_background.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/drawable/ic_launcher_foreground.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_main.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_resta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_sumar.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values-night/themes.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/colors.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/strings.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/themes.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/xml/backup_rules.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/xml/data_extraction_rules.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/test/java/com/example/examen01/ExampleUnitTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'build.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'gradle.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'gradlew', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'settings.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git commit -m "4:45,5:00 y 5:15"
+[master (root-commit) a256928] 4:45,5:00 y 5:15
+ 45 files changed, 1108 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/compiler.xml
+ create mode 100644 .idea/gradle.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 app/.gitignore
+ create mode 100644 app/build.gradle.kts
+ create mode 100644 app/proguard-rules.pro
+ create mode 100644 app/src/androidTest/java/com/example/examen01/ExampleInstrumentedTest.java
+ create mode 100644 app/src/main/AndroidManifest.xml
+ create mode 100644 app/src/main/java/com/example/examen01/MainActivity.java
+ create mode 100644 app/src/main/java/com/example/examen01/Sumar.java
+ create mode 100644 app/src/main/java/com/example/examen01/resta.java
+ create mode 100644 app/src/main/res/drawable/ic_launcher_background.xml
+ create mode 100644 app/src/main/res/drawable/ic_launcher_foreground.xml
+ create mode 100644 app/src/main/res/layout/activity_main.xml
+ create mode 100644 app/src/main/res/layout/activity_resta.xml
+ create mode 100644 app/src/main/res/layout/activity_sumar.xml
+ create mode 100644 app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+ create mode 100644 app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+ create mode 100644 app/src/main/res/mipmap-hdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-mdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/values-night/themes.xml
+ create mode 100644 app/src/main/res/values/colors.xml
+ create mode 100644 app/src/main/res/values/strings.xml
+ create mode 100644 app/src/main/res/values/themes.xml
+ create mode 100644 app/src/main/res/xml/backup_rules.xml
+ create mode 100644 app/src/main/res/xml/data_extraction_rules.xml
+ create mode 100644 app/src/test/java/com/example/examen01/ExampleUnitTest.java
+ create mode 100644 build.gradle.kts
+ create mode 100644 gradle.properties
+ create mode 100644 gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 gradlew
+ create mode 100644 gradlew.bat
+ create mode 100644 settings.gradle.kts
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git remote add origin https://github.com/flan1412x/examen01_Flores_JimenezPaul.git
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/flan1412x/examen01_Flores_JimenezPaul.git'
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git remote add origin https://github.com/flan1412x/examen01_Flores_JimenezPaul.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git remote add origin https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git branch -M main
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "5:30 pm"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .idea/vcs.xml
+        modified:   app/src/main/java/com/example/examen01/Sumar.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git add .
+warning: in the working copy of 'app/src/main/java/com/example/examen01/Sumar.java', LF will be replaced by CRLF the next time Git touches it
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "5:30"
+[main 32cc136] 5:30
+ 2 files changed, 29 insertions(+), 8 deletions(-)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "prueba"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app/src/main/java/com/example/examen01/Sumar.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git add .
+warning: in the working copy of 'app/src/main/java/com/example/examen01/Sumar.java', LF will be replaced by CRLF the next time Git touches it
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "prueba"
+[main eeae6f2] prueba
+ 1 file changed, 4 insertions(+), 21 deletions(-)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "5:45 pm"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app/src/main/AndroidManifest.xml
+        modified:   app/src/main/java/com/example/examen01/Sumar.java
+        modified:   app/src/main/java/com/example/examen01/resta.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git add .
+warning: in the working copy of 'app/src/main/java/com/example/examen01/Sumar.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/resta.java', LF will be replaced by CRLF the next time Git touches it
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git commit -m "5:45 pm"
+[main c6ad068] 5:45 pm
+ 3 files changed, 35 insertions(+), 11 deletions(-)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ rm -rf .git
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01
+$ git init
+Initialized empty Git repository in C:/Users/FISEI-LB1-PC18/AndroidStudioProjects/Examen01/.git/
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        .idea/
+        app/
+        build.gradle.kts
+        gradle.properties
+        gradle/
+        gradlew
+        gradlew.bat
+        settings.gradle.kts
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git commit -m "Commit 18:00"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        .idea/
+        app/
+        build.gradle.kts
+        gradle.properties
+        gradle/
+        gradlew
+        gradlew.bat
+        settings.gradle.kts
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ gid add .
+bash: gid: command not found
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/build.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/proguard-rules.pro', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/androidTest/java/com/example/examen01/ExampleInstrumentedTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/MainActivity.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/Sumar.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/java/com/example/examen01/resta.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/drawable/ic_launcher_background.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/drawable/ic_launcher_foreground.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_main.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_resta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/layout/activity_sumar.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values-night/themes.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/colors.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/strings.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/values/themes.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/xml/backup_rules.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/main/res/xml/data_extraction_rules.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/src/test/java/com/example/examen01/ExampleUnitTest.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'build.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'gradle.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'gradlew', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'settings.gradle.kts', LF will be replaced by CRLF the next time Git touches it
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git commit -m "Commit 18:00"
+[master (root-commit) bc4983f] Commit 18:00
+ 45 files changed, 1136 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/compiler.xml
+ create mode 100644 .idea/gradle.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 app/.gitignore
+ create mode 100644 app/build.gradle.kts
+ create mode 100644 app/proguard-rules.pro
+ create mode 100644 app/src/androidTest/java/com/example/examen01/ExampleInstrumentedTest.java
+ create mode 100644 app/src/main/AndroidManifest.xml
+ create mode 100644 app/src/main/java/com/example/examen01/MainActivity.java
+ create mode 100644 app/src/main/java/com/example/examen01/Sumar.java
+ create mode 100644 app/src/main/java/com/example/examen01/resta.java
+ create mode 100644 app/src/main/res/drawable/ic_launcher_background.xml
+ create mode 100644 app/src/main/res/drawable/ic_launcher_foreground.xml
+ create mode 100644 app/src/main/res/layout/activity_main.xml
+ create mode 100644 app/src/main/res/layout/activity_resta.xml
+ create mode 100644 app/src/main/res/layout/activity_sumar.xml
+ create mode 100644 app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+ create mode 100644 app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+ create mode 100644 app/src/main/res/mipmap-hdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-mdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+ create mode 100644 app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+ create mode 100644 app/src/main/res/values-night/themes.xml
+ create mode 100644 app/src/main/res/values/colors.xml
+ create mode 100644 app/src/main/res/values/strings.xml
+ create mode 100644 app/src/main/res/values/themes.xml
+ create mode 100644 app/src/main/res/xml/backup_rules.xml
+ create mode 100644 app/src/main/res/xml/data_extraction_rules.xml
+ create mode 100644 app/src/test/java/com/example/examen01/ExampleUnitTest.java
+ create mode 100644 build.gradle.kts
+ create mode 100644 gradle.properties
+ create mode 100644 gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 gradlew
+ create mode 100644 gradlew.bat
+ create mode 100644 settings.gradle.kts
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (master)
+$ git branch -M main
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git push -u origin main
+remote: Repository not found.
+fatal: repository 'https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git/' not found
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin git@github.com:flan1412x/Examen01_JimenezPaul_Flores.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin git@github.com:flan1412x/examen01_Flores_JimenezPaul.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git push -u origin main
+remote: Repository not found.
+fatal: repository 'https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git/' not found
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+origin  https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git (fetch)
+origin  https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git (push)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin git@github.com:flan1412x/examen01_Flores_JimenezPaul.git
+error: remote origin already exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+origin  https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git (fetch)
+origin  https://github.com/flan1412x/Examen01_JimenezPaul_Flores.git (push)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote rm origin
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin git@github.com:flan1412x/examen01_Flores_JimenezPaul.git
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git status
+On branch main
+nothing to commit, working tree clean
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git push -u origin main
+The authenticity of host 'github.com (140.82.114.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+origin  git@github.com:flan1412x/examen01_Flores_JimenezPaul.git (fetch)
+origin  git@github.com:flan1412x/examen01_Flores_JimenezPaul.git (push)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote rm origin
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote add origin git@github.com:flan1412x/examen_FloresFrank_JimenezPaul.git
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git remote -v
+origin  git@github.com:flan1412x/examen_FloresFrank_JimenezPaul.git (fetch)
+origin  git@github.com:flan1412x/examen_FloresFrank_JimenezPaul.git (push)
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git push -u origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+FISEI-LB1-PC18@FISEI-LB1-PC17 MINGW64 ~/AndroidStudioProjects/Examen01 (main)
+$ git push -u origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
