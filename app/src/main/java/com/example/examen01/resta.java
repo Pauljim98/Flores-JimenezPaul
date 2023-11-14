@@ -49,7 +49,7 @@ public class resta extends AppCompatActivity {
                     steps.append("\n");
 
 
-                    BigInteger result = num1.add(num2);
+                    BigInteger result = num1.subtract(num2);
 
 
                     steps.append(result);

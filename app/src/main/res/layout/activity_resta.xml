@@ -10,7 +10,7 @@
         android:id="@+id/btnReturnt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Volver a Activity 1"/>
+        android:text="Volver al Inicio"/>
 
     <EditText
         android:id="@+id/editTextNumber1"
