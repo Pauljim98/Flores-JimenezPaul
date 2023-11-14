@@ -1,0 +1,28 @@
+configuracion en cmd
+
+git config --global user.name "Pauljim98"
+git config --global user.email "paulsoy_10@outlook.es"
+
+-------------------------
+Dentro del proyecto con gitbash
+
+git init
+git status
+git add README.md
+git commit -m "Primer commit"
+git branch -M main
+git remote add origin https://github.com/Pauljim98/App_001.git
+git push -u origin main
+
+
+
+-------------------
+para actualizar los cambios
+git status
+git add .
+git commit -m "Segundo commit"
+git status
+git push
+-------------------
+
+https://www.youtube.com/watch?v=vlCXdvcgiE0&t=108s
